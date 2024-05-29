@@ -19,8 +19,8 @@ This repository contains model code and technical report by team GenStorm for th
 5. **Dataset**
     - The dataset used for this work can be downloaded from [this Google Drive link](https://drive.google.com/drive/folders/1cb6_lLHbga0Q5yfVWKS1eW84Z06jm6tx).
 
-6. **Next-Gen-TinyML-Smart-Weather-Station-GenStorm-Demo-Video.mp4**
-    - A demo video showcasing our weather station in action.
+6. **Next-Gen-TinyML-Smart-Weather-Station-GenStrom-PresentationSlides.ppt**
+    - Our presentation slides can be found here.
 
 
 ## Project Overview
