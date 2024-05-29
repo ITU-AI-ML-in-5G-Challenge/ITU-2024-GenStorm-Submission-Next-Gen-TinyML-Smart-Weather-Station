@@ -1,0 +1,1 @@
+# ITU-2024-GenStorm-Submission-Next-Gen-TinyML-Smart-Weather-Station
