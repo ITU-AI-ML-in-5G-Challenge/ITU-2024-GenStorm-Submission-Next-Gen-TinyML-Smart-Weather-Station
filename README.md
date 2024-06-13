@@ -45,7 +45,7 @@ The model is deployed as an Arduino library on the Arduino Nano 33 BLE Sense, en
 
 ## Authors
 
-- Fortunatus Aaabangbio. Wulnye: [fortunatuswulnye@outlook.com](mailto:fortunatuswulnye@outlook.com)
+- Fortunatus Aabangbio. Wulnye: [fortunatuswulnye@outlook.com](mailto:fortunatuswulnye@outlook.com)
 - Dennis Agyemanh Nana Gookyi: [dennisgookyi@gmail.com](mailto:dennisgookyi@gmail.com)
 - Roger Kwao Ahiadormey: [rogerkwao@gmail.com](mailto:rogerkwao@gmail.com)
 - Michael Wilson: [yboabengwilson@gmail.com](mailto:yboabengwilson@gmail.com)
